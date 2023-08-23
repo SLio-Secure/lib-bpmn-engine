@@ -1,7 +1,7 @@
 package bpmn_engine
 
 import (
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
 	"time"
 )
 

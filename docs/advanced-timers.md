@@ -54,8 +54,8 @@ to check for active scheduled timer events.
 package main
 
 import (
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
 	"time"
 )
 

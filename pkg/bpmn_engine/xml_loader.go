@@ -7,7 +7,7 @@ import (
 	"encoding/ascii85"
 	"encoding/hex"
 	"encoding/xml"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/spec/BPMN20"
 	"io"
 	"os"
 )

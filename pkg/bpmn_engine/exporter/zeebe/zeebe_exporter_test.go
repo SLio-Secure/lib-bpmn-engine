@@ -3,7 +3,7 @@ package zeebe
 import (
 	"github.com/corbym/gocrest/is"
 	"github.com/corbym/gocrest/then"
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine"
 	"testing"
 )
 

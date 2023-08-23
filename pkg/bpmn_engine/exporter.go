@@ -1,8 +1,8 @@
 package bpmn_engine
 
 import (
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine/exporter"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine/exporter"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/spec/BPMN20"
 )
 
 // AddEventExporter registers an EventExporter instance

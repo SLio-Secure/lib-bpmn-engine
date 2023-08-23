@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 	"github.com/hazelcast/hazelcast-go-client"
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine"
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine/exporter/zeebe"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine/exporter/zeebe"
 )
 
 func main() {

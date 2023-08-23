@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
 
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine/exporter"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/activity"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine/exporter"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/spec/BPMN20"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/spec/BPMN20/activity"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
 )
 
 type BpmnEngine interface {

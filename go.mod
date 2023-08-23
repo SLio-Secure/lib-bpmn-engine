@@ -1,4 +1,4 @@
-module github.com/nitram509/lib-bpmn-engine
+module github.com/SLio-Secure/lib-bpmn-engine
 
 go 1.18
 

@@ -2,7 +2,7 @@ package main
 
 import (
 	_ "embed"
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine"
 	"net/http"
 )
 

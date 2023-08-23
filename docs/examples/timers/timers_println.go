@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine"
 )
 
 func printScheduledTimerInformation(timer bpmn_engine.Timer) {

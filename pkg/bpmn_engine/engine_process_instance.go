@@ -1,10 +1,10 @@
 package bpmn_engine
 
 import (
-	"github.com/nitram509/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/bpmn_engine/var_holder"
 	"time"
 
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
 )
 
 type processInstanceInfo struct {

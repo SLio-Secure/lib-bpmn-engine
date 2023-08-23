@@ -3,7 +3,7 @@ package bpmn_engine
 import (
 	"github.com/corbym/gocrest/is"
 	"github.com/corbym/gocrest/then"
-	"github.com/nitram509/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
+	"github.com/github.com/SLio-Secure/lib-bpmn-engine/pkg/spec/BPMN20/process_instance"
 	"testing"
 )
 
